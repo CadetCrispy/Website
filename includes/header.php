@@ -14,7 +14,8 @@ if (!isset($_SESSION['csrf_token'])) {
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <body>
-    <nav>
+    <button class="hamburger" id="hamburger">&#9776;</button>
+    <nav id="nav-menu">
         <a href="index.php">Home</a>
         <a href="about.php">About</a>
         <a href="contact.php">Contact</a>

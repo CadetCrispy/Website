@@ -80,3 +80,33 @@ a:hover {
     background: #999;
     cursor: not-allowed;
 }
+/* [2025-06-08 01:18 AM] UI/UX: Responsive nav and animations */
+nav {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    padding: 1rem;
+    background: var(--background);
+}
+.hamburger {
+    display: none;
+    font-size: 1.5rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+@media (max-width: 767px) {
+    .hamburger {
+        display: block;
+    }
+    #nav-menu {
+        display: none;
+        flex-direction: column;
+    }
+    #nav-menu.open {
+        display: flex;
+    }
+    #nav-menu a {
+        padding: 0.5rem 1rem;
+    }
+}
