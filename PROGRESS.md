@@ -7,5 +7,5 @@
 7.[x]Admin dashboard (lesson CRUD + analytics) and commit “Admin dashboard complete.”
 8.[x]File uploads (lesson-assets with size/type checks) and commit “Uploads complete.”
 9.[x]Responsive styling & JS interactivity (hamburger, progress bars) and commit “UI/UX polishing.”
-10.[ ]Harden security (prepared statements, CSRF on all forms, session regeneration, HTTPS enforcement) and commit “Security hardening.”
+10.[x]Harden security (prepared statements, CSRF on all forms, session regeneration, HTTPS enforcement) and commit “Security hardening.”
 11.[ ]Add PHPUnit tests and performance tweaks.git p
