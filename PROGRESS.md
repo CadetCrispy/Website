@@ -4,7 +4,7 @@
 4.[x]Implement authentication (signup/login/logout, sessions, bcrypt) and commit “Authentication complete.”
 5.[x]Create lesson system (free/premium lessons, progress tracking, templates) and commit “Lessons system complete.”
 6.[x]Build forum (threads, posts, upvotes, profile views) and commit “Forum complete.”
-7.[ ]Admin dashboard (lesson CRUD + analytics) and commit “Admin dashboard complete.”
+7.[x]Admin dashboard (lesson CRUD + analytics) and commit “Admin dashboard complete.”
 8.[ ]File uploads (lesson-assets with size/type checks) and commit “Uploads complete.”
 9.[ ]Responsive styling & JS interactivity (hamburger, progress bars) and commit “UI/UX polishing.”
 10.[ ]Harden security (prepared statements, CSRF on all forms, session regeneration, HTTPS enforcement) and commit “Security hardening.”
