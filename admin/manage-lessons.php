@@ -57,6 +57,7 @@ $completions = $pdo->query(
 ?>
 <main>
     <h1>Admin Dashboard: Manage Lessons</h1>
+    <p><a href="upload-assets.php" class="btn--primary">Upload Lesson Assets</a></p>
     <?php if ($error): ?>
         <p style="color:red"><?= htmlspecialchars($error) ?></p>
     <?php endif; ?>
