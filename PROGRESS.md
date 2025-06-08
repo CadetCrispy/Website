@@ -1,5 +1,5 @@
 1.[x] Scaffold the project structure (directories + empty files) and commit as “Project structure scaffolded.”
-2.[ ]Wire up DB connection (includes/config.php & includes/db.php) and commit “Database setup.”
+2.[x] Wire up DB connection (includes/config.php & includes/db.php) and commit “Database setup.”
 3.[ ]Build public pages (home, about, contact with CSRF) and commit “Public pages complete.”
 4.[ ]Implement authentication (signup/login/logout, sessions, bcrypt) and commit “Authentication complete.”
 5.[ ]Create lesson system (free/premium lessons, progress tracking, templates) and commit “Lessons system complete.”
